@@ -1,0 +1,20 @@
+{
+  "name": "cicd2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimal97/CICD2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimal97/CICD2/issues"
+  },
+  "homepage": "https://github.com/Nimal97/CICD2#readme"
+}
